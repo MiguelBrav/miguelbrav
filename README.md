@@ -26,6 +26,6 @@
 
 <p><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=miguelbrav&show_icons=true&locale=en&layout=compact" alt="miguelbrav" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=miguelbrav" alt="miguelbrav" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-kannan.vercel.app/?username=miguelbrav" alt="miguelbrav" /></a> </p>
 
 
